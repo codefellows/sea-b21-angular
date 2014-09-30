@@ -1,0 +1,14 @@
+{
+  "name": "ux-angular",
+  "version": "0.1.0",
+  "description": "angular demo for ui/ux class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}

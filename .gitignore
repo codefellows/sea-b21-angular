@@ -1,0 +1,6 @@
+node_modules
+bower_components
+app/lib
+**/*.sw?
+app/js/lib
+app/bower_components
