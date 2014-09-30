@@ -11,6 +11,7 @@ Concepts to Cover
 -------------------
   * Browerify module patterns
   * The build process
+  * angular's take on mv*
   * angular module pattern (setting up an app)
   * ng directives
   * setting up a basic app
