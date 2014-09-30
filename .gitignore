@@ -4,3 +4,4 @@ app/lib
 **/*.sw?
 app/js/lib
 app/bower_components
+build/

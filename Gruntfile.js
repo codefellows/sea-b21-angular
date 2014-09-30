@@ -28,7 +28,7 @@ module.exports = function(grunt) {
           transform: ['debowerify'],
           debug: true
         },
-        src: ['app/js/**/*.js']
+        src: ['app/js/**/*.js'],
         dest: 'build/bundle.js'
       }
     }

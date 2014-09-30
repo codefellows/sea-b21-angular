@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "debowerify": "^0.8.2",
     "grunt": "^0.4.5"
   }
 }
